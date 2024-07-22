@@ -27,9 +27,11 @@ body:
         - Dynalite
         - Elasticsearch
         - GCloud
+        - Grafana
         - HiveMQ
         - InfluxDB
         - K3S
+        - K6
         - Kafka
         - LocalStack
         - MariaDB
@@ -41,6 +43,9 @@ body:
         - MySQL
         - Neo4j
         - NGINX
+        - OceanBase
+        - Ollama
+        - OpenFGA
         - Oracle Free
         - Oracle XE
         - OrientDB

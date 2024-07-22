@@ -55,6 +55,10 @@ Insert `tc:` after `jdbc:` as follows. Note that the hostname, port and database
 
 `jdbc:tc:sqlserver:2017-CU12:///databasename`
 
+#### Using OceanBase
+
+`jdbc:tc:oceanbasece:4.2.2:///databasename`
+
 #### Using Oracle
 
 `jdbc:tc:oracle:21-slim-faststart:///databasename`
@@ -74,6 +78,10 @@ Insert `tc:` after `jdbc:` as follows. Note that the hostname, port and database
 #### Using TimescaleDB
 
 `jdbc:tc:timescaledb:2.1.0-pg13:///databasename`
+
+#### Using PGVector
+
+`jdbc:tc:pgvector:pg16:///databasename`
 
 #### Using TiDB
 
